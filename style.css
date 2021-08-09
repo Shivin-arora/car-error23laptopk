@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+  }
+  canvas{
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0px;
+    border: 12px dashed rgb(29, 207, 29);
+  }
+  
+  
